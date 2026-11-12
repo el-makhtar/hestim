@@ -1,0 +1,45 @@
+
+
+Quel est l importance de la cybersécurité ?
+
+
+La cybersécurité est essentielle parce qu’elle protège les personnes, les organisations et les États contre le vol, la manipulation ou l’interruption de leurs données et services numériques. À mesure que la vie quotidienne, l’économie et les services publics dépendent d’Internet, elle devient une condition de confiance, de continuité et de sécurité.
+
+Pourquoi elle est cruciale?
+Protéger les données personnelles : elle empêche l’accès non autorisé, le vol ou la divulgation d’informations sensibles, comme des données bancaires, médicales ou d’identité.
+
+Assurer la continuité des activités : une cyberattaque peut bloquer des systèmes, interrompre une entreprise ou perturber des services publics pendant des jours.
+
+Préserver la confiance : clients, citoyens et partenaires doivent pouvoir utiliser les services numériques sans craindre pour leurs données ou la disponibilité des services.
+
+Réduire les pertes financières et juridiques : les incidents peuvent entraîner des coûts de remédiation, des pertes de revenus, des sanctions réglementaires et une atteinte durable à la réputation.
+
+Protéger les infrastructures critiques : santé, énergie, transports, télécommunications, banques et eau dépendent de systèmes connectés ; leur compromission peut avoir des conséquences directes sur la sécurité des personnes.
+
+Défendre la souveraineté et la démocratie : les attaques contre des institutions, la désinformation et les campagnes de manipulation peuvent fragiliser la confiance publique et la stabilité démocratique.
+
+Exemple concret
+Une attaque par rançongiciel contre un hôpital peut chiffrer ses dossiers médicaux et forcer le report d’interventions urgentes. Au-delà du coût technique, l’enjeu devient humain : la cybersécurité protège alors directement des vies et des services essentiels.
+
+Ce qu’elle implique
+La cybersécurité ne se limite pas aux antivirus. Elle combine des mesures techniques, organisationnelles et humaines : mots de passe robustes, authentification à deux facteurs, mises à jour régulières, sauvegardes, sensibilisation des utilisateurs, gestion des accès et plans de réponse aux incidents.
+
+En résumé, elle est importante car une seule faille peut exposer des données, arrêter une activité, coûter très cher et, dans les secteurs critiques, mettre des personnes en danger.
+
+
+Bibliographie:
+https://www.entreprises.gouv.fr/secteurs-dactivite/le-secteur-du-numerique-en-france/la-cybersecurite
+https://www.europarl.europa.eu/topics/fr/article/20211008STO14521/perche-la-sicurezza-informatica-e-importante-per-l-ue
+https://aws.amazon.com/fr/what-is/cybersecurity/
+https://www.ibm.com/fr-fr/think/topics/cybersecurity
+https://www.fortinet.com/fr/resources/cyberglossary/what-is-cybersecurity
+https://www.fortinet.com/fr/resources/cyberglossary/cyber-safety
+https://www.microsoft.com/fr-ch/security/business/security-101/what-is-it-security
+https://www.cloudflare.com/fr-fr/learning/security/what-is-cyber-security/
+https://www.checkpoint.com/fr/cyber-hub/cyber-security/what-is-cybersecurity/
+https://www.ece.fr/autres-articles/definition-cybersecurite/
+
+
+
+
+
